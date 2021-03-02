@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Joe Dietrich",
 	"description": "Learn about APIs using Node!",
+	"keywords": ["learning","api","proof", "concept"],
 	"dependencies": {
 		"express": "^4.17.1"
 	},
