@@ -4,6 +4,7 @@
 	"description": "Learn about APIs using Node!",
 	"keywords": ["learning","api","proof", "freecodecamp"],
 	"license": "MIT",
+	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
