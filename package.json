@@ -2,11 +2,17 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Joe Dietrich",
 	"description": "Learn about APIs using Node!",
-	"keywords": ["learning","api","proof", "freecodecamp"],
+	"keywords": [
+		"learning",
+		"api",
+		"proof",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "0.1.0",
 	"dependencies": {
-		"express": "^4.17.1"
+		"express": "^4.17.1",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
